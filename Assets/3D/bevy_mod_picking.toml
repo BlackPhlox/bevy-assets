@@ -1,4 +1,4 @@
 name = "bevy_mod_picking"
 description = "3D mouse picking plugin"
 link = "https://github.com/aevyrie/bevy_mod_picking"
-emoji = "🐭👉"
+image = "bevy_mod_picking.png"
