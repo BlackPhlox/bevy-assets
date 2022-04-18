@@ -1,0 +1,4 @@
+name = "bevy_serial"
+description = "Serial port communication plugin for Bevy"
+link = "https://github.com/hideakitai/bevy_serial"
+emoji = "🔣🔁"
